@@ -1,0 +1,10 @@
+tensorflow-gpu=2.1
+rapids=0.12
+jupyterlab=1.26
+opencv=4.2
+nodejs
+ipywidgets
+tqdm
+matplotlib
+plotly
+jupyterlab-nvdashboard
